@@ -3,7 +3,7 @@
 
 void printHello()
 {
-    fprintf(stdout, "hello world");
+    fprintf(stdout, "hello world\n");
 }
 
 int main()
